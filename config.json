@@ -1,0 +1,7 @@
+{
+  "author_url": "https://vocus.cc/salon/69f0a41efd89780001eabb27/room/69f1f313293a143b79774adf",
+  "max_new_articles_per_run": 3,
+  "rewrite_model": "gpt-4.1-mini",
+  "mode": "rewrite",
+  "min_source_characters": 350
+}
